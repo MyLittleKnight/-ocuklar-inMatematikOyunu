@@ -8,7 +8,7 @@
 
 <h1>Oyunun oynanışı:</h1>
 Oyunda rastgele sayınların geldiği bir ana sayımız var ve bu ana sayının altında 4 adet gene rastgele seçilmiş sayılar bulunmaktadır.Kutulardaki sayıların toplamı ana sayımız eşit olacak şekilde kutularımızı seçiyoruz yanlış seçme durumunda ekranda ekran kırmızıya döner puan gelmez.Aşşağıdaki gibi:
-<img src="images/Ekran Alıntısı3.PNG" alt="ekran-alıntısı" >
+</br><img src="images/Ekran Alıntısı3.PNG" alt="ekran-alıntısı" >
 
 Eğer doğru olan kutular seçilirse ek puan kazanılı ve ekran yeşile döner yeterli zamanda bilinemez ise soru gene yanlış kabul edilir.
-<img src="images/Ekran Alıntısı4.PNG" alt="ekran-alıntısı" >
+</br><img src="images/Ekran Alıntısı4.PNG" alt="ekran-alıntısı" >
