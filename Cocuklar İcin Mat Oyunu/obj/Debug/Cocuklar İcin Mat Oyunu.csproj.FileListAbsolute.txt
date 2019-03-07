@@ -1,0 +1,27 @@
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\bin\Debug\Cocuklar İcin Mat Oyunu.exe.config
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\bin\Debug\Cocuklar İcin Mat Oyunu.exe
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\bin\Debug\Cocuklar İcin Mat Oyunu.pdb
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Form1.resources
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Properties.Resources.resources
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.csproj.GenerateResource.Cache
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.exe
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.pdb
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Form2.resources
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Form3.resources
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Form4.resources
+C:\Users\muham\Desktop\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\bin\Debug\kurallar1.accdb
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\bin\Debug\kurallar1.accdb
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\bin\Debug\Cocuklar İcin Mat Oyunu.exe.config
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\bin\Debug\Cocuklar İcin Mat Oyunu.exe
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\bin\Debug\Cocuklar İcin Mat Oyunu.pdb
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.csprojAssemblyReference.cache
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Form1.resources
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Form2.resources
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Form3.resources
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Form4.resources
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar_İcin_Mat_Oyunu.Properties.Resources.resources
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.csproj.GenerateResource.cache
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.csproj.CoreCompileInputs.cache
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.exe
+D:\toshiba Flash\c# Games\Cocuklar İcin Mat Oyunu\Cocuklar İcin Mat Oyunu\obj\Debug\Cocuklar İcin Mat Oyunu.pdb
