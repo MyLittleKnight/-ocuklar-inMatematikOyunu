@@ -1,5 +1,5 @@
-#Çocuklar içi MatematikOyunu
-<h1>Oyun Hakkında</h1>
+# Çocuklar içi Matematik Oyunu
+## Oyun Hakkında
   Oyunun amacı çoçuklara oyun oynatırken bir yandanda matematiği sevmeleri ve hesaplama yeteneklerini geliştirmek.<>
 <h2>Başlangıç Ekranı</h2>
 <img src="images/Ekran Alıntısı.PNG" alt="ekran-alıntısı" >
