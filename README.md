@@ -1,4 +1,4 @@
-# Çocuklar içi Matematik Oyunu
+# Çocuklar için Matematik Oyunu
 ## Oyun Hakkında
   Oyunun amacı çoçuklara oyun oynatırken bir yandanda matematiği sevmeleri ve hesaplama yeteneklerini geliştirmek.<>
 <h2>Başlangıç Ekranı</h2>
